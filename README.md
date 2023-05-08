@@ -32,6 +32,8 @@ THEN I find a concise, descriptive title
 ```
 
 ## Visuals
+As previously mentioned, the user-facing look of the home page following my edits should look identical to the mockup with accessibility issues:
+
 ![As previously mentioned, the user-facing look of the home page following my edits should look identical to the mockup with accessibility issues:](./Assets/01-html-css-git-homework-demo.png)
 
 ## Changes
