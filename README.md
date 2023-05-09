@@ -1,6 +1,8 @@
 # Challenge 1 - HTML, CSS, Git
-### by James Varos 
-### Github: https://github.com/varos-je/challenge_1
+### by James Varos
+
+#### Github repository: https://github.com/varos-je/challenge_1
+#### Github Pages: https://varos-je.github.io/challenge_1/
 
 ## Description
 The basis of this project is a drafted home page for a fictitious company, Horiseon. The basis already included an .html file, a .css file, and several images that appear on the home page, but the previous code was not as 'accessible' as it should be. Addutionally, the user-facing look of the home page following my edits should look identical to the mockup with accessibility issues (see desired mockup in "Visuals").
